@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Josemi 👋
+# Hi, I'm Josemi 😁​
 
 ### Software Development Engineer
 
@@ -10,7 +10,7 @@ Building reliable software, backend systems and automation.
 
 <br>
 
-## About
+## About me 👱​
 
 I'm a Software Development Engineer with a background in **Telecommunications Engineering**, currently working on software development, automation and DevOps environments.
 
@@ -20,7 +20,7 @@ Currently pursuing a **Master's Degree in Software Engineering and Technology** 
 
 <br>
 
-## Tech Stack
+## Tech Stack 🛠️​
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,linux,docker,git" />
@@ -34,7 +34,7 @@ Linux · Docker · Git · CI/CD · DevOps
 
 <br>
 
-## Currently working on
+## Currently working on ​💯​
 
 At **SIBUK**, I'm currently focused on:
 
@@ -45,7 +45,7 @@ At **SIBUK**, I'm currently focused on:
 
 <br>
 
-## Selected Projects
+## Projects ​​🧑‍🍳​
 
 ### 🖥️ Network & System Monitoring Platform
 
