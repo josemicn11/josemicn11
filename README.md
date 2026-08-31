@@ -36,12 +36,12 @@ Linux · Docker · Git · CI/CD · DevOps
 
 ## Currently working on ​💯​
 
-At **SIBUK**, I'm currently focused on:
+At **SIBUK**, I'm currently working on bringing **DevOps practices to PARADOX VPN**, with a focus on:
 
 - Automating development and deployment workflows
-- Building and improving **CI/CD pipelines**
-- Implementing DevOps practices
-- Developing software and internal automation tools
+- Designing and improving **CI/CD pipelines**
+- Integrating DevOps practices into the development lifecycle
+- Building internal tools and automation to streamline development processes
 
 <br>
 
