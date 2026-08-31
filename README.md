@@ -14,9 +14,9 @@ Building reliable software, backend systems and automation.
 
 I'm a Software Development Engineer with a background in **Telecommunications Engineering**, currently working on software development, automation and DevOps environments.
 
-My main interests are **backend engineering, cybersecurity and artificial intelligence**, with a particular focus on building reliable systems and improving development workflows through automation.
+My main interests are **backend engineering, cybersecurity and artificial intelligence**, with a particular focus on building efficient and robust software systems and improving development workflows through automation.
 
-Currently pursuing a **Master's Degree in Software Engineering and Technology** at the Universitat Politècnica de València.
+Currently pursuing a **Master's Degree in Software Engineering and Technology** at the Polytechnic University of Valencia.
 
 <br>
 
