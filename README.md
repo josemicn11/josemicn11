@@ -57,9 +57,17 @@ My **Bachelor's Final Project in Telecommunications Engineering**, awarded a **1
 
 ---
 
-### 🛒 E-commerce Web Application
+### 🛒 Legendary Shirts — Full-Stack E-commerce Platform
 
-A web-based online store developed as a complete application project, covering the main functionality of an e-commerce platform.
+Academic **full-stack e-commerce project**, awarded a **10/10**, developed around an online store for retro football shirts.
+
+The platform includes:
+
+- A **customer-facing storefront** for browsing products, managing a shopping cart and completing purchases
+- An **administration panel** for managing products, users and orders
+- A relational **SQL database** supporting the application's core data and operations
+
+`Java` `PHP` `JavaScript` `HTML` `CSS` `JSP` `SQL`
 
 > Repository coming soon.
 
