@@ -49,7 +49,7 @@ At **SIBUK**, I'm currently working on bringing **DevOps practices to PARADOX VP
 
 ### 🖥️ Network & System Monitoring Platform
 
-My **Bachelor's Final Project in Telecommunications Engineering**, awarded a **10/10**, focused on the design and implementation of a monitoring platform for **DNS traffic and system health metrics**, integrating a conversational assistant for natural-language interaction with the system.
+My **Bachelor's Final Project in Telecommunications Engineering**, focused on the design and implementation of a monitoring platform for **DNS traffic and system health metrics**, integrating a conversational assistant for natural-language interaction with the system.
 
 `Python` `Docker` `Linux` `Grafana` `InfluxDB` `Raspberry Pi` `LLM`
 
@@ -59,7 +59,7 @@ My **Bachelor's Final Project in Telecommunications Engineering**, awarded a **1
 
 ### 🛒 Legendary Shirts — Full-Stack E-commerce Platform
 
-Academic **full-stack e-commerce project**, awarded a **10/10**, developed around an online store for retro football shirts.
+Academic **full-stack e-commerce project**, developed around an online store for retro football shirts.
 
 The platform includes:
 
