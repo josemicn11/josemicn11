@@ -49,7 +49,7 @@ At **SIBUK**, I'm currently working on bringing **DevOps practices to PARADOX VP
 
 ### 🖥️ Network & System Monitoring Platform
 
-A monitoring platform designed to collect and visualize **DNS traffic and system health metrics**, integrating a conversational assistant for natural-language interaction with the monitoring system.
+My **Bachelor's Final Project in Telecommunications Engineering**, awarded a **10/10**, focused on the design and implementation of a monitoring platform for **DNS traffic and system health metrics**, integrating a conversational assistant for natural-language interaction with the system.
 
 `Python` `Docker` `Linux` `Grafana` `InfluxDB` `Raspberry Pi` `LLM`
 
