@@ -12,7 +12,7 @@ Building reliable software, backend systems and automation.
 
 ## About me 👱​
 
-I'm a Software Development Engineer with a background in **Telecommunications Engineering**, currently working on software development, automation and DevOps environments.
+I'm a Software Development Engineer with a Bachelor's Degree in **Telecommunications Engineering**, currently working on software development, cibersecurity and DevOps environments.
 
 My main interests are **backend engineering, cybersecurity and artificial intelligence**, with a particular focus on building efficient and robust software systems and improving development workflows through automation.
 
@@ -23,7 +23,7 @@ Currently pursuing a **Master's Degree in Software Engineering and Technology** 
 ## Tech Stack 🛠️​
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,linux,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql,bash,linux,docker,git" />
 </p>
 
 **Languages**  
