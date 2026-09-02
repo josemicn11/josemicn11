@@ -23,7 +23,7 @@ Currently pursuing a **Master's Degree in Software Engineering and Technology** 
 ## Tech Stack 🛠️​
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql,bash,linux,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,linux,docker,git" />
 </p>
 
 **Languages**  
