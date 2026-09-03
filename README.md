@@ -69,7 +69,7 @@ The platform includes:
 
 `Java` `PHP` `JavaScript` `HTML` `CSS` `JSP` `SQL`
 
-> Repository coming soon.
+🔗 [View the project repository](https://github.com/josemicn11/legendary-shirts)
 
 <br>
 
