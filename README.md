@@ -12,7 +12,7 @@ Building reliable software, backend systems and automation.
 
 ## About me 👱​
 
-I'm a Software Development Engineer with a Bachelor's Degree in **Telecommunications Engineering**, currently working on software development, cibersecurity and DevOps environments.
+I'm a Software Development Engineer with a Bachelor's Degree in **Telecommunications Engineering**,currently working across software development, cybersecurity and DevOps.
 
 My main interests are **backend engineering, cybersecurity and artificial intelligence**, with a particular focus on building efficient and robust software systems and improving development workflows through automation.
 
@@ -47,9 +47,9 @@ At **SIBUK**, I'm currently working on bringing **DevOps practices to PARADOX VP
 
 ## Projects ​​🧑‍🍳​
 
-### 🖥️ Network & System Monitoring Platform
+### 🖥️ IoT Network Monitoring System
 
-My **Bachelor's Final Project in Telecommunications Engineering**, focused on the design and implementation of a monitoring platform for **DNS traffic and system health metrics**, integrating a conversational assistant for natural-language interaction with the system.
+My Bachelor's Final Project in Telecommunications Engineering: a Docker-based platform for monitoring DNS traffic and system health metrics, with a conversational assistant for natural-language interaction.
 
 `Python` `Docker` `Linux` `Grafana` `InfluxDB` `Raspberry Pi` `LLM`
 
