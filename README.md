@@ -53,7 +53,7 @@ My **Bachelor's Final Project in Telecommunications Engineering**, focused on th
 
 `Python` `Docker` `Linux` `Grafana` `InfluxDB` `Raspberry Pi` `LLM`
 
-🔗 [View the project repository](https://github.com/josemicn11/legendary-shirts)
+🔗 [View the project repository](https://github.com/josemicn11/iot-network-monitoring)
 
 ---
 
