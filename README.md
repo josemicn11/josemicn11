@@ -27,7 +27,7 @@ Currently pursuing a **Master's Degree in Software Engineering and Technology** 
 </p>
 
 **Languages**  
-Python · C · C++ · Java · Bash
+Python · C · C++ · Java · SQL · Bash 
 
 **Tools & Technologies**  
 Linux · Docker · Git · CI/CD · DevOps
