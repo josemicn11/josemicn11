@@ -76,13 +76,9 @@ The platform includes:
 ## Stats
 
 <p align="center">
-  <img height="230" src="https://github-stats-extended.vercel.app/api?username=josemicn11&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="230" src="https://github-stats-extended.vercel.app/api/top-langs/?username=josemicn11&layout=compact&hide_border=true&theme=transparent" />
+  <img height="180" alt="Josemi's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=josemicn11&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" />
+  <img height="180" alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=josemicn11&layout=compact&hide_border=true&theme=transparent" />
 </p>
-
-<br>
-
-<div align="center">
 
 ### Backend Engineering · Cybersecurity · Artificial Intelligence · Automation
 
