@@ -12,7 +12,7 @@ Building reliable software, backend systems and automation.
 
 ## About me 👱​
 
-I'm a Software Development Engineer with a Bachelor's Degree in **Telecommunications Engineering**,currently working across software development, cybersecurity and DevOps.
+I'm a Software Development Engineer with a Bachelor's Degree in **Telecommunications Engineering**, currently working across software development, cybersecurity and DevOps.
 
 My main interests are **backend engineering, cybersecurity and artificial intelligence**, with a particular focus on building efficient and robust software systems and improving development workflows through automation.
 
